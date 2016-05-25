@@ -1,3 +1,15 @@
+The theme and style was adapted from Freelancer Jekyll theme, the license for which is
+provided below. See CHANGES for a list of changes. Detailed changes may be obtained via the git
+history.
+
+The content in `_posts` folder is original LaNTHack content and is
+not available under the license below.
+
+
+# License for Freelancer Jekyll theme
+(From https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE)
+
+```
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -199,3 +211,4 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+```

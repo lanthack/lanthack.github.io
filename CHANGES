@@ -1,0 +1,74 @@
+CHANGES
+
+Detailed changes may be found via git history.
+
+Summary
+    1. Changed from single page theme to multiple page theme
+    2. Added custom content
+
+
+
+------------------------------------------------------------------------------
+Removed these files
+------------------------------------------------------------------------------
+css/font-awesome/css/font-awesome.css           | 1566
+css/font-awesome/css/font-awesome.min.css       |    4 -
+css/font-awesome/fonts/FontAwesome.otf          |  Bin 75188 -> 0 bytes
+css/font-awesome/fonts/fontawesome-webfont.eot  |  Bin 72449 -> 0 bytes
+css/font-awesome/fonts/fontawesome-webfont.svg  |  504 ------------------------------
+css/font-awesome/fonts/fontawesome-webfont.ttf  |  Bin 141564 -> 0 bytes
+css/font-awesome/fonts/fontawesome-webfont.woff |  Bin 83760 -> 0 bytes
+style.css                                       |    3 -
+
+_includes/about.html                            |   24 --
+_includes/contact.html                          |   54 ----
+_includes/contact_disqus.html                   |   16 -
+_includes/contact_static.html                   |   49 ---
+_includes/header.html                           |   15 -
+_includes/js_disqus.html                        |   21 --
+_includes/modals.html                           |   40 ---
+_includes/portfolio_grid.html                   |   26 --
+
+_posts/2014-07-13-project-6.markdown            |   12 -
+_posts/2014-07-14-project-5.markdown            |   12 -
+_posts/2014-07-15-project-4.markdown            |   12 -
+_posts/2014-07-16-project-3.markdown            |   12 -
+_posts/2014-07-17-project-2.markdown            |   12 -
+_posts/2014-07-18-project-1.markdown            |   12 -
+
+js/contact_me.js                                |   70 -----
+mail/contact_me.php                             |   31 --
+
+img/portfolio/cake.png                          |  Bin 17068 -> 0 bytes
+img/portfolio/circus.png                        |  Bin 27984 -> 0 bytes
+img/portfolio/game.png                          |  Bin 25896 -> 0 bytes
+img/portfolio/safe.png                          |  Bin 19240 -> 0 bytes
+img/portfolio/submarine.png                     |  Bin 24330 -> 0 bytes
+screenshot.png                                  |  Bin 64347 -> 0 bytes
+
+
+------------------------------------------------------------------------------
+Modified these files
+------------------------------------------------------------------------------
+README.md                                       |   32 +-
+_config.yml                                     |   41 +--
+_includes/css/main.css                          |   76 ++---
+_includes/footer.html                           |   37 +--
+_includes/head.html                             |    8 +-
+_includes/js.html                               |    9 +-
+_includes/nav.html                              |   66 ++--
+_layouts/default.html                           |   12 +-
+index.html                                      |   44 ++-
+
+
+------------------------------------------------------------------------------
+Added these files
+------------------------------------------------------------------------------
+_posts/*
+_layouts/post.html                              |   32 ++
+_layouts/style.css                              |    3 +
+contact.html                                    |   66 ++++
+css/style.css                                   |    3 +
+hackathon.html                                  |   24 ++
+
+
