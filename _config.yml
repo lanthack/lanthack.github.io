@@ -1,15 +1,15 @@
 # Site settings
-title: Multilancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: LaNT Hack
+email: admin@lanthack.org
+url: http://lanthack.org
+description: "Learn a New Tech Hackathon"
+skills: "Learn a New Tech Hackathon"
+meta_author: Gupta Ankur
 
 # Google webmaster tools
 google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 con  tent= goes here
 bing_verify:
 
 # If you use disqus you need disqus shortname
@@ -34,22 +34,11 @@ footer:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
-  # - title: stack-overflow
-  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  # - title: bitbucket
-  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+    url: http://github.com/lanthack
 
 # Credits content
-credits: 'Multilancer is based on Freelancer, an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Style adapted from <a target="_blank" href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a> theme.'
 
 # Build settings
 markdown: kramdown

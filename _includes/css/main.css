@@ -405,3 +405,24 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+ul.footer, li.footer {
+    display: inline;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+}
+
+li.footer > a {
+    color: #fff;
+}
+
+li.footer > a:hover,
+li.footer > a:focus,
+li.footer > a:active {
+    outline: 0;
+    color: #{{ site.color.primary }};
+}
+
