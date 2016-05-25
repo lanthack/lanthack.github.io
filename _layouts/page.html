@@ -1,21 +1,19 @@
 ---
 layout: default
-title: About
-permalink: /hackathon.html
+title: {{ page.title }}
 ---
 
- <!-- About Section -->
- <section class="regular">
+<section class="regular">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Hackathon</h2>
+                <h2>{{ page.title }}</h2>
                 <hr class="star-primary">
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <p>Learn a New Technology Hackathon is a series of hackathons in which a group of data scientists and engineers learn to build something use a new technology.</p>
+                {{ content }}
             </div>
         </div>
     </div>
