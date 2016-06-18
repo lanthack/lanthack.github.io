@@ -395,6 +395,11 @@ footer .footer-below {
     box-shadow: none;
 }
 
+.modal-content-internal {
+    padding-top: 2em;
+    text-align: left;
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }

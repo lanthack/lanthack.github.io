@@ -15,10 +15,26 @@ Also checkout our [GitHub organization page](http://github.com/lanthack) for all
 <br/>
 <br/>
 
+### Next
 
-### Upcoming
+#### Text Analysis
+See [this page]({% post_url 2016-06-17-text-analysis%}).
 
-#### Natural Language Processing
+
+<br/>
+<br/>
+<br/>
+
+
+
+### Future
+
+#### Big Data using Spark
+Stay tuned.
+
+<br/>
+
+#### Numerical Optimization
 Stay tuned.
 
 
