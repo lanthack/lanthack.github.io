@@ -5,12 +5,12 @@ permalink: /hackathon.html
 ---
 
 
-Learn a New Technology Hackathon is a series of hackathons in which a
+Random Walk Labs Hackathon is a series of hackathons in which a
 group of data scientists and engineers learn to build something use a new technology.
 Once a month, we spend one day building something cool and then
 vote amongst ourselves to determine a winner.
 See the [Showcase](/index.html#portfolio) for winning entries.
-Also checkout our [GitHub organization page](http://github.com/lanthack) for all the entries.
+Also checkout our [GitHub organization page](http://github.com/randomwalklabs) for all the entries.
 
 <br/>
 <br/>
