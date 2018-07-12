@@ -1,3 +1,2 @@
-# LaNT Hack
-
-GitHub Pages website repository for [LaNT Hack](http://lanthack.org).
+# Random Walk Labs
+GitHub Pages website repository for [Random Walk Labs](http://randomwalklabs.org).
