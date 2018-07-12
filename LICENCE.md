@@ -2,7 +2,7 @@ The theme and style was adapted from Freelancer Jekyll theme, the license for wh
 provided below. See CHANGES for a list of changes. Detailed changes may be obtained via the git
 history.
 
-The content in `_posts` folder is original LaNTHack content and is
+The content in `_posts` folder is original Random Walk Labs content and is
 not available under the license below.
 
 
