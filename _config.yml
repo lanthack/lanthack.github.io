@@ -1,9 +1,9 @@
 # Site settings
 title: LaNT Hack
 email: admin@lanthack.org
-url: http://lanthack.org
-description: "Learn a New Tech Hackathon"
-skills: "Learn a New Tech Hackathon"
+url: http://randomwalklabs.org
+description: "Random Walk Labs"
+skills: "Tecnology, Machine Learning, Statistics, Software"
 meta_author: Gupta Ankur
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
   - title: github
-    url: http://github.com/lanthack
+    url: http://github.com/randomwalklabs
 
 # Credits content
 credits: 'Style adapted from <a target="_blank" href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a> theme.'
